@@ -1,2 +1,4 @@
-# Godot-Engine
-A engine used by TTG to make 2D Games
+A engine used to make our 2D games without frustration.
+We use this engine constantly to make remakes like:
+•Flappy Bird
+• Platformers etc.
